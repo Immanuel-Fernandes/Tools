@@ -1,0 +1,3 @@
+streamlit
+transformers
+language_tool_python
