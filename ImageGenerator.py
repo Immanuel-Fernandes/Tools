@@ -48,7 +48,8 @@ def generate_image(prompt, api_key):
 st.title("Environment Image Generator")
 
 prompt = st.text_input("Enter your environment-related prompt:")
-#api_key = st.text_input("Enter your Stability AI API Key:", type="password")
+# api_key = st.text_input("Enter your Stability AI API Key:", type="password")
+# https://platform.stability.ai/account/keys
 api_key = 'sk-z6Kj18xNpMMFVOo4O93z8cCrxcYgXzTSSnvw3jlmtJu0p35z'
 
 if st.button("Generate Image"):
