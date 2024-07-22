@@ -1,3 +1,6 @@
 streamlit
 transformers
 language_tool_python
+streamlit 
+requests 
+pillow
